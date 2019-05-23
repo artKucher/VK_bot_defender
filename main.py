@@ -5,7 +5,7 @@ import json
 import random
 
 blacklistUsers = {103844138, 71446998}
-MenuMessages = {'setting_mode_enable': 'NICE, SETTING MOD IS ENABLED write add to ADD new rule or EXIT to you know what',
+MenuMessages = {'setting_mode_enable': 'NICE, SETTING MOD IS ENABLED write add to NF new rule or EXIT to you know what',
                 'setting_mode_disable': 'SETTING MOD IS DISABLED',
                 'misunderstanding': 'SORRY, I DONT UNDERSTAND',
                 'new_filter': 'Now forward message from chat you want to filter or EXIT to exit',
